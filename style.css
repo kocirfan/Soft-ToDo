@@ -1,0 +1,47 @@
+#header{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: tomato;
+    
+}
+span{
+    margin-left: 45%;
+}
+a{
+    color:white;
+}
+strong{
+    color: rgb(168, 81, 81);
+    font-size: 20px;
+}
+body{
+    background-image: url(images/pexels-dids-3705949.jpg);
+}
+.card-header{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    background-color: rgba(173, 214, 224, 0.664);
+
+}
+.card-body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgba(223, 231, 247, 0.664);
+
+    
+}
+#txtTaskName{
+    background-color: rgb(230, 228, 228);
+}
+#btnAddNewTask{
+    background-color: rgb(236, 226, 226);
+    
+}
+.fas{
+    color: rgb(216, 79, 79);
+}
+.list-group-item{
+    background-color:  rgba(223, 231, 247, 0.664);
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
